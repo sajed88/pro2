@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="select">
+        <item>""</item>
+        <item>C</item>
+        <item>Java</item>
+        <item>Python</item>
+    </string-array>
+</resources>
